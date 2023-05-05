@@ -1,0 +1,12 @@
+{
+  "name": "Storage POC",
+  "version": "1.0.0",
+  "description": "Storage POC Description",
+  "manifest_version": 3,
+  "author": "Nathan Krasney",
+  "action": {
+    "default_popup": "popup/index.html",
+    "default_icon": "default_icon.png"
+  },
+  "permissions": ["storage"]
+}
