@@ -1,0 +1,1 @@
+# browser-extension-storage-vanilla-js-plaground
